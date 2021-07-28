@@ -3,7 +3,6 @@ overflow-x: hidden;
 }
 header{
     background-color:#FFF9F4;
-    height: 715px;
 }
 h1, h2, h3, h4, h5, h6 {
 color:#363958;
@@ -13,15 +12,17 @@ color:#363958;
 
 .nike-button{
     color: white;
-    background-image:  linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+background-image: linear-gradient(315deg, #ee9617 0%, #fe5858 74%);
+
+   
     border-radius: 10px;
     padding: 15px 10px  ;
 }
 .nike-button:hover {
-    color: #3D4FF3;
+    color: #fe5858;
     transform: scale(1.1);
     background-image: none;
-    border: 2px solid #3D4FF3;
+    border: 2px solid #fe5858;
     border-radius: 
 
 }
